@@ -3,6 +3,9 @@
     <style name="Base.Theme.TestMvvm3" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="fontFamily">@font/meslolgm_n_f_m_regular</item>
+        <item name="android:statusBarColor">@color/black</item>
     </style>
 
     <style name="Theme.TestMvvm3" parent="Base.Theme.TestMvvm3" />
