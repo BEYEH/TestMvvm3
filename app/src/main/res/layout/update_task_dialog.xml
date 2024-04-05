@@ -15,7 +15,7 @@
             android:id="@+id/titleTaskText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="New Task"
+            android:text="@string/update_task"
             android:textStyle="bold"
             android:textSize="24sp"
             android:layout_margin="16dp"/>
@@ -77,7 +77,7 @@
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.button.MaterialButton
-                android:id="@+id/saveTaskButton"
+                android:id="@+id/updateTaskButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
